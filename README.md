@@ -1,5 +1,7 @@
 # batch-processor.golang
 
+![](https://img.shields.io/badge/language-Go-00ADD8) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 ## install
 
 ```
